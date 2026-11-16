@@ -1,0 +1,35 @@
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model caches
+.cache/
+models/
+
+# Environment variables
+.env
+.env.*
+
+# Confidential test data
+secret_markers.txt
+CONFIDENTIAL_*.txt
+
+# Instructor datasets (keep locally)
+corpus6/
+corpus8/
+redteam6.csv
+redteam8.csv
+
+# Local generated files
+*.log
+
+# Sensitive red-team evaluation outputs
+redteam_evaluation_results.csv

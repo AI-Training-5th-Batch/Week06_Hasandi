@@ -1,0 +1,6 @@
+Metric,Value
+Baseline ASR,81.25%
+Mitigated ASR,6.25%
+ASR Reduction (percentage points),75.00
+Benign Non-Refusal Rate,100.00%
+Remaining Successful Attacks,1

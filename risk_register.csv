@@ -1,0 +1,5 @@
+ID,Risk,Impact,Likelihood,Control,Residual
+R1,Sensitive information disclosure,High,High,Exclude confidential documents; output redaction,Low
+R2,Prompt injection,High,Medium,Input guardrail; least-privilege retrieval,Low
+R3,Unsafe operational advice,High,Medium,Harmful-intent filter; refuse and redirect,Low
+R4,Misinformation / hallucination,Medium,High,Retrieval-confidence gate; grounded prompt,Medium

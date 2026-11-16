@@ -1,0 +1,5 @@
+NIST AI RMF Function,Implementation
+GOVERN,"Model card, acceptable-use rules, human oversight"
+MAP,Threat model and risk register
+MEASURE,"Red-team suite, baseline and mitigated ASR"
+MANAGE,Layered guardrails and residual-risk treatment
